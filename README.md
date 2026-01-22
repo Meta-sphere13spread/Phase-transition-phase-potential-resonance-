@@ -1,4 +1,4 @@
-# Phase-transition-phase-potential-resonance-
+# Phase-transition-phase-potential-resonance-Ai result
 Phase resonance and phase transition reports through AI (a story ignited in 20 minutes). 
 
 
